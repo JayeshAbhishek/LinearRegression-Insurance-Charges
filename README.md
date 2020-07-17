@@ -14,9 +14,11 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 
 
 How to download the data
-In your Mac or Linux envirounment, open a terminal and change to the directory where you want your data to be downloaded.
-Go to the github page you want to download it's data (for example the challenger data in chapter 6: https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/challenger.csv)
-On the right side, you will find a button called "raw". Click on it.
-Copy the url you will get for the new page (in our example I got https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/challenger.csv)
-put the following command in the terminal screen wget name_of_url
+
+1. In your Mac or Linux envirounment, open a terminal and change to the directory where you want your data to be downloaded.
+2. Go to the github page you want to download it's data (for example the challenger data in chapter 6: https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/challenger.csv)
+3. On the right side, you will find a button called "raw". Click on it.
+4. Copy the url you will get for the new page (in our example I got https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/challenger.csv)
+5. put the following command in the terminal screen wget name_of_url
+
 so in our example it should be like this wget https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/challenger.csv
