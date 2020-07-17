@@ -1,6 +1,8 @@
 # LinearRegression-Insurance-Charges
 This is a small data set about a sample of people and their charges relating to diseases that they incur.
 
+
+
 Content
 Columns
 1. age: age of primary beneficiary
@@ -11,6 +13,8 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 5. smoker: Smoking
 6. region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 7. charges: Individual medical costs billed by health insurance
+
+
 
 
 How to download the data
